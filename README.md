@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Deepak-18-1993
+- 👋 Hi, I’m Deepak Singh
 - 👀 I’m interested in Computational chemistry
 - 🌱 I’m currently learning Quantum chemistry
 - 💞️ I’m looking to collaborate on in Computational chemistry and kinetics.
